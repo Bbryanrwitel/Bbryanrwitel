@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Barmbryantm
-- 🌱 I’m currently learning Java, C++. PHP
+- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP
 
 <!---
 Bbryanrwitel/Bbryanrwitel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
